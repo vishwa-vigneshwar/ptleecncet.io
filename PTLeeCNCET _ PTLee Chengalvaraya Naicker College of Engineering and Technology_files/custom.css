@@ -1,0 +1,70 @@
+ 
+.custom {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color: black;
+ font-size:16px;
+ line-height: 2;
+  
+  
+}
+.customc {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(52, 7, 252, 0.911);
+  font-size:14px;
+  line-height: 2;
+  font-weight: bold;
+ } 
+ .customcd {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(4, 18, 82, 0.911);
+  font-size:14px;
+  line-height: 2;
+  font-weight: bold;
+ } 
+ .Navic {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(52, 7, 252, 0.911);
+  font-size:14px;
+  line-height: 2;
+  font-weight: bold;
+ } 
+ .Navicd {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(3, 68, 19, 0.911);
+  font-size:14px;
+  line-height: 2;
+  font-weight: bold;
+ } 
+.customb {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: rgba(14, 13, 13, 0.911);
+  font-size:15px;
+  line-height: 2;
+  font-weight: bold;
+ } 
+.href {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color: rgba(255, 0, 0, 0.664);
+ font-size:15px;
+ line-height: 2;
+ font-weight: bold;
+  
+}
+.foot-font {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color: white;
+ font-size:16px;
+  
+}
+.ul {
+  list-style-image: url('/images/logo/bullet.jpg');
+}
+.img{
+    float: right;
+    width: 10px;
+    margin: 5px 15px 0 0;
+}
+ 
+
+
+ 
